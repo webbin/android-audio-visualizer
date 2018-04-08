@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#FF03A9F4</color>
+    <color name="primary_dark">#FF0288D1</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="grey">#cccccc</color>
+
+    <!-- 主背景色：白色 -->
+    <color name="pureWhite">#ffffff</color>
+    <!-- top_bar灰白色 -->
+    <color name="app_main_top_bar">#E1E1E1</color>
+    <!-- 背景色：灰色 -->
+    <color name="app_grey_bg">#e6e6e6</color>
+    <!-- 背景色：浅灰色 -->
+    <color name="app_light_grey_bg">#fafafa</color>
+    <!-- 背景色：浅黑色 -->
+    <color name="app_light_black">#585858</color>
+    <!-- 分隔线颜色：灰色 -->
+    <color name="app_divider_bg">#e6e6e6</color>
+
+    <color name="app_pink_bg">#E70077</color>
+
+    <!--  字体灰色 -->
+    <color name="app_font_grey_bg">#767676</color>
+
+    <!-- 字体颜色 -->
+    <color name="fontColor_black">#000000</color>
+    <color name="fontColor_light_black">#333333</color>
+    <color name="fontColor_grey">#666666</color>
+    <color name="fontColor_dark_grey">#222222</color>
+    <color name="fontColor_light_grey">#999999</color>
+    <color name="fontColor_main_color">#EA5B10</color>
+    <color name="topbar_btn_bg_dark_red">#8C1313</color>
+
+    <color name="product_gainsboro">#DCDCDC</color>
+    <color name="product_pale">#BBFFFF</color>
+    <color name="product_cateblue">#53868B</color>
+    <color name="product_yellow">#FFFF00</color>
+    <color name="product_peachPuff">#FFDAB9</color>
+    <color name="product_purple">#A020F0</color>
+    <color name="product_cyan">#008B8B</color>
+    <color name="product_Aquamarine">#7FFFD4</color>
+    <color name="product_lavender">#E6E6FA</color>
+    <color name="product_MidnightBlue">#191970</color>
+    <color name="product_SeaGreen">#2E8B57</color>
+    <color name="product_IndianRed">#8B3A3A</color>
+    <color name="product_LimeGreen">#32CD32</color>
+    <color name="product_grey21">#363636</color>
+    <color name="product_MediumOrchid">#D15FEE</color>
+
+
+    <color name="transparent_white">#aaffffff</color>
+    <color name="transparent_black">#99000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_grey">#88aaaaaa</color>
+</resources>

@@ -1,1 +1,1 @@
-include ':sample', ':audiovisualizer'
+include ':sample', ':audiovisualizer', ':mainapp', ':baseproject'
