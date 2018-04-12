@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AudioMainApp</string>
+
+    <string name="scan_main">扫描音乐</string>
 </resources>

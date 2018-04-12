@@ -43,6 +43,10 @@ public class BaseAppcompatActivity extends AppCompatActivity {
         Toast.makeText(mContext,message,Toast.LENGTH_SHORT).show();
     }
     protected void log(String message){
+        Log.v(getClass().getSimpleName()+" --- ", message);
+    }
+
+    protected void logE(String message) {
         Log.e(getClass().getSimpleName()+" --- ", message);
     }
 
